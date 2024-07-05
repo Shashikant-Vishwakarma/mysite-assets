@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "first middle last",
+    "dob": "01-01-1990",
+    "aadhar": "2323 1511 5515"
+  },  
+  {
+    "id": 2,
+    "name": "first1 middle1 last1",
+    "dob": "01-01-1961",
+    "aadhar": "4848 3515 7984"
+  },
+]
+
